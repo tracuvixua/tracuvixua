@@ -6,6 +6,10 @@
 
 - 🌱 I'm currently learning **Python and C++, will be more in the future.**
 
+- 🎹 My hobbies are watching film, listening to music and reading books
+
+- 👾 Currently, I have a small Youtube channel to upload my Gameplay
+
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
@@ -19,5 +23,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,linux,py,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,py" />
 </p>
