@@ -2,7 +2,7 @@
 
 ### a normal person
 
-- 🔭 I'm currently Freshman and studying at **EIU**,
+- 🔭 I'm currently a Freshman and studying at **EIU**,
 
 - 🌱 I'm currently learning **Python and C++, will be more in the future.**
 
@@ -23,5 +23,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,linux,py" />
+  <img src="https://skillicons.dev/icons?i=cpp,linux,py" />
 </p>
