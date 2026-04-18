@@ -4,11 +4,11 @@
 
 - 🔭 I'm currently a Freshman and studying at **EIU**,
 
-- 🌱 I'm currently learning **Python and C++, will be more in the future.**
+- 🌱 I'm currently learning **Python and C++, will be more in the future,**
 
-- 🎹 My hobbies are watching film, listening to music and reading books
+- 🎹 My hobbies are watching films, listening to musics and reading books,
 
-- 👾 Currently, I have a small Youtube channel to upload my Gameplay
+- 👾 Currently, I have a small Youtube channel to upload my gameplays.
 
 <h3 align="left">Connect with me:</h3>
 <table>
