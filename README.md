@@ -6,9 +6,7 @@
 
 - 🌱 I'm currently learning **Python and C++, will be more in the future,**
 
-- 🎹 My hobbies are watching films, listening to musics and reading books,
-
-- 👾 Currently, I have a small Youtube channel to upload my gameplays.
+- 🎹 My hobbies are watching films, listening to musics, reading books and yeah, video games.
 
 <h3 align="left">Connect with me:</h3>
 <table>
