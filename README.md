@@ -1,6 +1,6 @@
 # Hi 👋, I'm tracuvixua
 
-### a normal person
+### just an ordinary person
 
 - 🔭 I'm currently a Freshman and studying at **EIU**,
 
